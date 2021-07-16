@@ -5,5 +5,6 @@ public class GitTest {
     public static void main(String[] args) {
         //先写"hello git".sout+回车 快速生成system
         System.out.println("hello git!");
+        System.out.println("hello git2");
     }
 }
